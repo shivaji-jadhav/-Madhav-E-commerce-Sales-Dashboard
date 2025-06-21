@@ -47,7 +47,7 @@ This Power BI project delivers an insightful analysis of Madhav's e-commerce sal
 ## 👤 Author
 
 **Shivaji Jadhav**  
-📧 Email: [your.email@example.com]  
+📧 Email: [shivajijadhav9255@gmail.com]  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shivaji-jadhav-b0b565289)
 
 ---
